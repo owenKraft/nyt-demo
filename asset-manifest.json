@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nyt-demo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/nyt-demo/static/js/main.62f9d4fb.chunk.js",
+    "main.js.map": "/nyt-demo/static/js/main.62f9d4fb.chunk.js.map",
+    "runtime-main.js": "/nyt-demo/static/js/runtime-main.e6bdfbf5.js",
+    "runtime-main.js.map": "/nyt-demo/static/js/runtime-main.e6bdfbf5.js.map",
+    "static/js/2.136c819a.chunk.js": "/nyt-demo/static/js/2.136c819a.chunk.js",
+    "static/js/2.136c819a.chunk.js.map": "/nyt-demo/static/js/2.136c819a.chunk.js.map",
+    "static/js/3.a428a19a.chunk.js": "/nyt-demo/static/js/3.a428a19a.chunk.js",
+    "static/js/3.a428a19a.chunk.js.map": "/nyt-demo/static/js/3.a428a19a.chunk.js.map",
+    "index.html": "/nyt-demo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/nyt-demo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.136c819a.chunk.js.LICENSE.txt": "/nyt-demo/static/js/2.136c819a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nyt-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6bdfbf5.js",
+    "static/js/2.136c819a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.62f9d4fb.chunk.js"
+  ]
+}
