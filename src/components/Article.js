@@ -9,8 +9,11 @@ import SpecialOfferCTA from './SpecialOfferCTA'
 import DiagramCTA from './DiagramCTA'
 import YouTubeCTA from './YouTubeCTA'
 import ImageCTA from './ImageCTA'
+import EditorsPicks from './EditorsPicks'
+import ArticleBottom from './ArticleBottom'
 
 const Article = (props) => {
+    const editorsPicks = <EditorsPicks />
 
     return (
         <div className="article">
@@ -55,6 +58,7 @@ const Article = (props) => {
             <SpecialOfferCTA />
 
             <ArticleSection
+                aside ={editorsPicks}
                 text = {
                     <div>
                         Inflation has been the workhorse of cosmology for 35 years, though many, including Dr. Guth, wondered whether it could ever be proved.<br />
@@ -180,6 +184,8 @@ const Article = (props) => {
                     </div>
                     }
             />
+
+            <ArticleBottom />
         </div>
     )
 }
